@@ -12,6 +12,7 @@
 |----         |----           |----                |----                                  |
 | Director    | [Lanzaned#2512](https://discordapp.com/users/871877975346405388) | [871877975346405388](https://discordapp.com/users/871877975346405388) | Javascript, XML, HTML, CSS, lua, SQL |
 | Contributer | [AnnaLou#1509](https://discordapp.com/users/585839151564193812) | [585839151564193812](https://discordapp.com/users/585839151564193812) | lua |
+| Contributor    | [thelynxtrain#7652](https://discordapp.com/users/113017332346925056) | [113017332346925056](https://discordapp.com/users/113017332346925056) | N/A |
 
 ## Join our Media Channels!
 Discord: https://discord.gg/kmKcHWGqbP<br>
