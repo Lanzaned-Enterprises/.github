@@ -15,9 +15,9 @@
 | Contributor    | [thelynxtrain#7652](https://discordapp.com/users/113017332346925056) | [113017332346925056](https://discordapp.com/users/113017332346925056) | N/A |
 
 ## Join our Media Channels!
-Discord: https://discord.gg/kmKcHWGqbP<br>
-Github: https://github.com/Lanzaned-Enterprises<br>
-Documentation: https://lanzaned-development.gitbook.io/lanzaned-development-or-documentation/
+Discord: https://discord.lanzaned.com<br>
+Github: https://github.lanzaned.com/<br>
+Documentation: https://docs.lanzaned.com/
 
 ## Member Stats
 <div align="center">
