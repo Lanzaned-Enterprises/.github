@@ -24,5 +24,6 @@ Documentation: https://docs.lanzaned.com/
 
 <a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=SerenaKing&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 <a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Annalouu&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+<a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelynxtrain&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 
 </div>
