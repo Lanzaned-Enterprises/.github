@@ -20,4 +20,9 @@ Github: https://github.com/Lanzaned-Enterprises<br>
 Documentation: https://lanzaned-development.gitbook.io/lanzaned-development-or-documentation/
 
 ## Member Stats
-[![Serena King's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenaKing&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+<a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=SerenaKing&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+<a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Annalouu&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+
+</div>
