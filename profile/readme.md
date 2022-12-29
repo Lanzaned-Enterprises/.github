@@ -27,3 +27,10 @@ Documentation: https://docs.lanzaned.com/
 <a href="https://discord.lanzaned.com/"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelynxtrain&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 
 </div>
+
+## Discord Profiles
+<div align="center">
+
+<a href="https://discordapp.com/users/871877975346405388"><img width="45%" src="https://discord.c99.nl/widget/theme-3/871877975346405388.png"/></a>
+
+</div>
